@@ -90,7 +90,7 @@ p{
   margin-right: 15px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
   main{
     background-color: white;
     background-color: hsl(0, 0%, 100%);

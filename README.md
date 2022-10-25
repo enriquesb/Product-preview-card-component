@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/product-preview-card-component-html-css-flexbox-VZ0iD1shcx)
+- Live Site URL: [Here](https://635701ed643be62ddc8809ec--aesthetic-hummingbird-5f509c.netlify.app/)
 
 ## My process
 
